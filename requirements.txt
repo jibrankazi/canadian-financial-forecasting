@@ -1,0 +1,10 @@
+# Required Python packages
+pandas>=1.2
+numpy>=1.21
+requests
+yfinance
+prophet>=1.0
+matplotlib
+seaborn
+scikit-learn
+statsmodels
