@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+authors:
+  - family-names: Kazi
+    given-names: Jibran
+    affiliation: University of Toronto
+title: "Canadian Financial Forecasting: CAD/USD, CORRA, TSX"
+version: "1.0.0"
+date-released: "2025-09-25"
+abstract: "This repository contains data and code for forecasting Canadian financial metrics (CAD/USD exchange rate, CORRA interest rate, and TSX index) using Prophet, ARIMA, and VAR models."
